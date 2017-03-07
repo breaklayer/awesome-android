@@ -1852,6 +1852,8 @@ And this project is not using the image file!
 [https://github.com/telly/groundy](https://github.com/telly/groundy)
 1. **EasyCamera** Wrapper around the android Camera class that simplifies its usage          
 [https://github.com/Glamdring/EasyCamera](https://github.com/Glamdring/EasyCamera)
+1. **CameraKit-Android** One of the hardest Android APIs made into a high level and easy to use library that solves all of your problems.
+[https://github.com/flurgle/CameraKit-Android](https://github.com/flurgle/CameraKit-Android)
 1. **CastCompanionLibrary-android**  CastCompanionLibrary-android is a library project to enable developers integrate Cast capabilities into their applications faster and easier.          
 [https://github.com/googlecast/CastCompanionLibrary-android](https://github.com/googlecast/CastCompanionLibrary-android)
 1. **cling** UPnP/DLNA library for Java and Android      
